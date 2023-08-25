@@ -12,6 +12,7 @@ File Zipper is a Java application that allows you to add files to an archive, de
 - Add new files to the archive
 - Delete selected files from the archive
 - Create a zip archive containing selected files
+<img width="227" alt="app" src="https://github.com/oskalbarczyk/file-zipper-java-swing/assets/106467480/a7711954-b4a5-450f-8401-cfe82cda8c4d">
 
 ## Getting Started 🚀
 1. Clone or download the project repository.
